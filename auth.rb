@@ -4,7 +4,6 @@ require 'rubygems'
 require 'bundler'
 Bundler.setup(:default)
 require 'rbnacl'
-require 'base64'
 
 key = RbNaCl::Random.random_bytes
 message = ARGV[0].encode("BINARY")
