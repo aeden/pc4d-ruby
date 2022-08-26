@@ -1,4 +1,6 @@
 # Practical Cryptography for Developers (in Ruby)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Faeden%2Fpc4d-ruby.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Faeden%2Fpc4d-ruby?ref=badge_shield)
+
 
 This repository contains examples of how to use various Ruby libraries to perform cryptographic operations safely and with purpose. 
 
@@ -45,3 +47,7 @@ Symmetric example: `auth.rb` & `verify.rb`
 
 Run `auth.rb` with the appropriate arguments and the final output should show the command required to verify.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Faeden%2Fpc4d-ruby.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Faeden%2Fpc4d-ruby?ref=badge_large)
